@@ -34,6 +34,7 @@ import CoreData
 
 ## Meta
 Abdullah – 3bdullah.om@gmail.com
+
 [https://github.com/abdullah-alomayri/github-link](https://github.com/abdullah-alomayri/)
 
 [swift-image]:https://img.shields.io/badge/swift-4.0-orange.svg

@@ -2,7 +2,7 @@
 > Images based on location to guide Tourists for attraction places.
 
 [![Swift Version][swift-image]][swift-url]
-[![Build Status][travis-image]][travis-url]
+
 
  Tourists during there journy they can open the app and add new pin in the map and gets random images related to pin location.
  Then he can decide either to go or not.
@@ -38,5 +38,4 @@ Abdullah – 3bdullah.om@gmail.com
 
 [swift-image]:https://img.shields.io/badge/swift-4.0-orange.svg
 [swift-url]: https://swift.org/
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+

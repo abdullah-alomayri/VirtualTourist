@@ -1,39 +1,38 @@
 # VirtualTourist
 > Show Images based on selected location to guide Tourists for attraction places.
+[![Swift Version][swift-image]][swift-url]
 
 
-the user during the day when he sits close to the device the sensor will detect the motion then the clock will turn on showing the date & time, humidity, and temperature.
- 
+ Tourists during there journy they can open the app and add new pin in the map and gets random images related to pin location.
+ Then he can decide either to go or not.
+
 ![](header.png)
 
 ## Features
 
-- [x] Date 
-- [x] Time
-- [x] humidity
-- [x] temperature
+- [x] Map View 
+- [x] Show Image from API
+- [x] Image Picker
+- [x] pin selection
 
-## Requirements and Parts
+## Requirements
 
-- Arduino board 
-- Arduino IDE
-- LCD 20*4 
-- PIR sensor
-- RTC 1307
-- wires
-- 4.7k potentiometer 
+- iOS 12.2+
+- Xcode 10.2.1
 
 ## Installation
 
-To get the full benefits include the following libraries 
+To get the full benefits import `CoreData, MapKit, CoreData` 
 
-``` 
-#include <dht.h>
-#include <Time.h> 
-#include <Wire.h> 
-#include <DS1307RTC.h>
-#include <LiquidCrystal.h>
-
+``` swift
+import UIKit
+import MapKit
+import CoreData
 
 ```
+## Meta
+Abdullah – 3bdullah.om@gmail.com
+[https://github.com/abdullah-alomayri/github-link](https://github.com/abdullah-alomayri/)
 
+[swift-image]:https://img.shields.io/badge/swift-4.0-orange.svg
+[swift-url]: https://swift.org/
